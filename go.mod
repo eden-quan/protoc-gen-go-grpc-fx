@@ -1,4 +1,4 @@
-module github.com/eden/protoc-gen-go-grpc-fx
+module github.com/eden-quan/protoc-gen-go-grpc-fx
 
 go 1.19
 

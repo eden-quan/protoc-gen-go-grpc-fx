@@ -36,10 +36,10 @@ const (
 	fxPackage        = protogen.GoImportPath("go.uber.org/fx")
 	fmtPackage       = protogen.GoImportPath("fmt")
 	kratosPackage    = protogen.GoImportPath("github.com/go-kratos/kratos/v2/log")
-	configPackage    = protogen.GoImportPath("github.com/eden/go-biz-kit/config")
-	defPackage       = protogen.GoImportPath("github.com/eden/go-biz-kit/config/def")
-	injectionPackage = protogen.GoImportPath("github.com/eden/go-biz-kit/injection")
-	clientPackage    = protogen.GoImportPath("github.com/eden/go-biz-kit/client")
+	configPackage    = protogen.GoImportPath("github.com/eden-quan/go-biz-kit/config")
+	defPackage       = protogen.GoImportPath("github.com/eden-quan/go-biz-kit/config/def")
+	injectionPackage = protogen.GoImportPath("github.com/eden-quan/go-biz-kit/injection")
+	clientPackage    = protogen.GoImportPath("github.com/eden-quan/go-biz-kit/client")
 )
 
 type serviceGenerateHelperInterface interface {
