@@ -1,5 +1,5 @@
-module gitlab.lainuoniao.cn/eden-quan/protoc-gen-go-grpc-fx
+module gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-go-grpc-fx.git
 
-go 1.19
+go 1.22
 
 require google.golang.org/protobuf v1.31.0
